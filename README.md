@@ -47,9 +47,9 @@ https://github.com/scikit-learn/scikit-learn (python)<br>
 https://github.com/ikding/pycon_time_series (python time series)<br>
 https://github.com/jakevdp/PythonDataScienceHandbook (python book data science handbook)<br>
 
+https://github.com/qinwf/awesome-R (R)<br>
 https://github.com/tidyverse/dplyr (R)<br>
 https://github.com/yihui/knitr (R)<br>
-https://github.com/qinwf/awesome-R (R)<br>
 https://github.com/ramnathv/rCharts (R visualization)<br>
 https://github.com/sfirke/janitor(R)<br>
 https://github.com/tidyverse/tidyverse (R)<br>
