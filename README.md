@@ -9,7 +9,8 @@ https://github.com/bcaffo/courses
 DataScienceSpecialization/courses slides (JHU in R)<br>
 https://github.com/seankross/slides
 
-https://github.com/sux13/DataScienceSpCourseNotes notes(JHU in R)
+DataScienceSpecialization/courses notes<br>
+https://github.com/sux13/DataScienceSpCourseNotes (JHU in R)
 
 DataScienceSpecialization/Developing_Data_Products (JHU in R)<br>
 https://github.com/DataScienceSpecialization/Developing_Data_Products
@@ -20,11 +21,12 @@ https://github.com/rdpeng/ExData_Plotting1<br>
 https://github.com/jtleek/datasharing<br>
 https://github.com/StarGazer007/shinystocks<br>
 
- 
-https://github.com/Starignus/AppliedML_Python_Coursera (Michigan University in Python)<br>
+AppliedDataSciencewithPython(Michigan University)<br> 
+https://github.com/Starignus/AppliedML_Python_Coursera (in Python)<br>
 
-https://github.com/cs109/a-2017 (cs109)<br>
-https://github.com/cs109/2015 (cs109)<br>
+cs109(Harvard)<br>
+https://github.com/cs109/a-2017 <br>
+https://github.com/cs109/2015 <br>
 
 ## Learning Resources collection
 https://github.com/GitEasonXu/Data-Science-books (data science ebooks)<br>
