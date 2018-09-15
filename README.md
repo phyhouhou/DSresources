@@ -29,6 +29,8 @@ https://github.com/cs109/a-2017 <br>
 https://github.com/cs109/2015 <br>
 
 ## Learning Resources collection
+https://stanford.edu/~shervine/teaching/cs-229.html (cheat sheets of ML, supervised ML, unsupervised ML, deep learning, ML tips and tricks, probability and statistics) *****<br>
+https://github.com/ml874/Data-Science-Cheatsheet (data science cheatsheet)*****<br>
 https://github.com/GitEasonXu/Data-Science-books (data science ebooks)<br>
 https://github.com/datasciencemasters/go (very comprehensive list from math to ML both R and python)<br>
 https://github.com/josephmisiti/awesome-machine-learning (versatile)<br>
