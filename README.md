@@ -58,4 +58,6 @@ https://github.com/tidyverse/tidyverse (R)<br>
 https://github.com/hadley/r-pkgs (R packages)<br>
 https://github.com/yihui/r-ninja (R)<br>
 
+## Interview collections
 
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
