@@ -1,6 +1,7 @@
 # Learning Resources
 
 This repository is a collection of learning resources on data science including online courses (coursera,...) in both R and Python, ebooks, cheatsheets,...
+and I wish to build some website to host thouse resources in the future.
  
 ## Coursera Courses
 DataScienceSpecialization/courses (JHU in R)<br>
